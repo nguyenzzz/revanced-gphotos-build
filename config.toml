@@ -9,4 +9,4 @@ enable-magisk-update = false   # set this to false if you do not want to receive
 version = "auto"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/photos/"
 included-patches = "'com.google.android.apps.photos.nexus_preload' 'com.google.android.apps.photos.NEXUS_PRELOAD' 'com.google.android.feature.PIXEL_2021_EXPERIENCE' 'com.google.android.feature.PIXEL_2022_EXPERIENCE'"
-arch = "armeabi-v7a"
+arch = "arm-v7a"
