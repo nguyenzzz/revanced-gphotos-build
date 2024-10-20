@@ -1,9 +1,12 @@
-GooglePhotos (arm-v7a): 7.4.0.687342855  
 GooglePhotos (arm64-v8a): 7.4.0.687342855  
+GooglePhotos (arm-v7a): 7.4.0.687342855  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for Revanced Google Photos to work  
 
 [revanced-google-photos](https://github.com/Unofficial-Life/revanced-gphotos-build)
+  
+
+Remeber these are automatic builds and no changes on them except the version if there is any change in perticular related to GPhotos I will add them in the release notes instead of this message
   
 CLI: j-hc/revanced-cli-4.6.0-all.jar  
 Integrations: ReVanced/revanced-integrations-1.16.0.apk  
